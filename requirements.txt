@@ -3,3 +3,4 @@ numpy==1.23.1
 opencv-python==4.9.0.80
 pandas==2.0.3
 pillow==10.3.0
+scikit-image==0.21.0
